@@ -1,0 +1,15 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}Главная страница{% endblock %}
+
+{% block content %}
+    <div class="features">
+        <h1>Сократи свой url</h1>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.long_u }}
+            <span>{{ error }}</span>
+            <button class="btn btn-success" type="submit"> Переделать </button>
+        </form>
+    </div>
+{% endblock %}

@@ -40,6 +40,10 @@ main .features {
     text-align: center;
     width: 80%;
 }
+form {
+    width: 500px;
+    margin: auto;
+}
 
 main .features h1 {font-size: 50px}
 main .features p {max-width: 400px; margin: 20px auto}
