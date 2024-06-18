@@ -1,11 +1,11 @@
-from .models import Sites
+from .models import Tiny
 from django.forms import ModelForm, TextInput
 
-class SitesForm(ModelForm):
+class TinyForm(ModelForm):
     class Meta:
-        model = Sites
-        fields = ['long_u']
+        model = Tiny
+        fields = ['full_url']
 
         widgets = {
-            "long_u": TextInput(attrs={'class': 'form-control', 'placeholder': 'Вставить url'}),
+            "full_url": TextInput(attrs={'class': 'form-control', 'placeholder': 'Вставить url'}),
         }

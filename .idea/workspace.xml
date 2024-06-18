@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="536aef09-06e7-491c-a276-b8d8e8e021c4" name="Changes" comment="Bade">
-      <changelist_data name="arsuha2003" email="64196096+arsuha2003@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/firstapplication/tinys/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstapplication/tinys/templates/tinys/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstapplication/tinys/templates/tinys/tinys_home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstapplication/tinys/urls.py" afterDir="false" />
+    <list default="true" id="536aef09-06e7-491c-a276-b8d8e8e021c4" name="Changes" comment="add_form">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstapplication/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/firstapplication/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstapplication/firstapplication/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstapplication/firstapplication/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstapplication/firstapplication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstapplication/firstapplication/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstapplication/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/firstapplication/main/static/main/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstapplication/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstapplication/main/templates/main/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstapplication/tinys/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstapplication/tinys/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/арс/PycharmProjects/FirProj/pythonProject3/firstapplication",
     "node.js.detected.package.eslint": "true",
@@ -56,6 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,7 +83,10 @@
       <workItem from="1715845938491" duration="4625000" />
       <workItem from="1718203954869" duration="3717000" />
       <workItem from="1718276637065" duration="4734000" />
-      <workItem from="1718644153299" duration="6622000" />
+      <workItem from="1718644153299" duration="6732000" />
+      <workItem from="1718725226740" duration="8000" />
+      <workItem from="1718725245771" duration="503000" />
+      <workItem from="1718725825285" duration="4576000" />
     </task>
     <task id="LOCAL-00001" summary="Bade">
       <option name="closed" value="true" />
@@ -98,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718281913628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add_form">
+      <option name="closed" value="true" />
+      <created>1718651218052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718651218052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bade" />
+    <MESSAGE value="add_form" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_form" />
   </component>
 </project>
